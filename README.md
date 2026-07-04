@@ -22,3 +22,4 @@ This project is created to learn and implement real-world DevOps practices.
 ## Status
 
 Day 1 - Project Initialization 
+Day 5: Learning Advanced Git Commands
