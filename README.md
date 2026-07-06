@@ -22,5 +22,5 @@ This project is created to learn and implement real-world DevOps practices.
 ## Status
 
 Day 1 - Project Initialization 
-Day 5: Learning Advanced Git Commands
+Day 5: Git Advanced Commands (Feature Branch)
 This line is added from feature-readme branch.
