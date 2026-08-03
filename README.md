@@ -199,52 +199,48 @@ Application deployment location:
 
 /usr/share/nginx/html
 
-# 📸 Project Screenshots 📷
+# 📸 Project Screenshots
 
 ## GitHub Repository
 
-![GitHub Repository](screenshots/01-github-repository.png)
-
+<img src="screenshots/01-github-repository.png" width="700">
 
 ## AWS EC2 Instance
 
-![AWS EC2 Instance](screenshots/02-aws-ec2-instance.png)
-
+<img src="screenshots/02-aws-ec2-instance.png" width="700">
 
 ## EC2 Terminal
 
-![EC2 Terminal](screenshots/03-ec2-terminal.png)
-
+<img src="screenshots/03-ec2-terminal.png" width="700">
 
 ## Docker Images
 
-![Docker Images](screenshots/04-docker-images.png)
-
+<img src="screenshots/04-docker-images.png" width="700">
 
 ## Docker Containers
 
-![Docker Containers](screenshots/05-docker-ps.png)
+<img src="screenshots/05-docker-ps.png" width="700">
 
+## Docker Compose
 
-## Docker Compose Services
+<img src="screenshots/06-docker-compose-ps.png" width="700">
 
-![Docker Compose](screenshots/06-docker-compose-ps.png)
+## Website Running
 
-
-## Website Deployment
-
-![Website Running](screenshots/07-website-running.JPG)
-
+<img src="screenshots/07-website-running.JPG" width="700">
 
 ## Docker Hub Repository
 
-![Docker Hub Repository](screenshots/08-dockerhub-repository.png)
-
+<img src="screenshots/08-dockerhub-repository.png" width="700">
 
 ## Git Status
 
-![Git Status](screenshots/09-git-status.png)
+<img src="screenshots/09-git-status.png" width="700">
 
+
+## Project Structure
+
+<img src="screenshots/10-project-structure.png" width="700">
 
 ## Project Structure
 
