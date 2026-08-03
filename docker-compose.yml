@@ -1,0 +1,16 @@
+services:
+  web:
+    image: mywebsite:v5
+    container_name: compose-nginx
+    ports:
+      - "8081:80"
+
+  db:
+    image: mysql:8.0
+    container_name: compose-mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+    ports:
+      - "3306:3306"
