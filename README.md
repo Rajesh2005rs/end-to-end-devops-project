@@ -170,7 +170,7 @@ docker push username/image_name
 ☁️ AWS EC2 Deployment
 EC2 Setup
 
-Steps performed:
+Steps performed:-
 
 Created AWS EC2 Instance
 Connected using SSH
@@ -178,7 +178,7 @@ Installed required packages
 Configured Nginx Web Server
 Deployed application
 
-SSH Connection:
+SSH Connection:-
 
 ssh -i key.pem ec2-user@public-ip
 Nginx Installation
@@ -195,9 +195,14 @@ Enable on boot:
 
 sudo systemctl enable nginx
 
-Application deployment location:
+```
+##  Application Deployment:-
 
+Application is deployed on an AWS EC2 instance using Nginx web server.
+
+Deployment location:
 /usr/share/nginx/html
+The application files are hosted inside the Nginx default web root directory.
 
 # 📸 Project Screenshots
 
