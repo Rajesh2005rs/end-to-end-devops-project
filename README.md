@@ -199,11 +199,11 @@ Application deployment location:
 
 /usr/share/nginx/html
 
-# 📸 Project Screenshots
+# 📸 Project Screenshots 📷
 
 ## GitHub Repository
 
-![GitHub Repository](screenshots/01-github-repository.png)
+<img src="screenshots/01-github-repository.png" width="700">
 
 ---
 
