@@ -203,44 +203,31 @@ Application deployment location:
 
 ## GitHub Repository
 
-<img src="screenshots/01-github-repository.png" width="700">
+<img src="./screenshots/01-github-repository.png" width="700">
 
 ## AWS EC2 Instance
 
-<img src="screenshots/02-aws-ec2-instance.png" width="700">
+<img src="./screenshots/02-aws-ec2-instance.png" width="700">
 
 ## EC2 Terminal
 
-<img src="screenshots/03-ec2-terminal.png" width="700">
+<img src="./screenshots/03-ec2-terminal.png" width="700">
 
 ## Docker Images
 
-<img src="screenshots/04-docker-images.png" width="700">
+<img src="./screenshots/04-docker-images.png" width="700">
 
 ## Docker Containers
 
-<img src="screenshots/05-docker-ps.png" width="700">
+<img src="./screenshots/05-docker-ps.png" width="700">
 
 ## Docker Compose
 
-<img src="screenshots/06-docker-compose-ps.png" width="700">
+<img src="./screenshots/06-docker-compose-ps.png" width="700">
 
 ## Website Running
 
-<img src="screenshots/07-website-running.JPG" width="700">
-
-## Docker Hub Repository
-
-<img src="screenshots/08-dockerhub-repository.png" width="700">
-
-## Git Status
-
-<img src="screenshots/09-git-status.png" width="700">
-
-
-## Project Structure
-
-<img src="screenshots/10-project-structure.png" width="700">
+<img src="./screenshots/07-website-running.JPG" width="700">
 
 ## Project Structure
 
