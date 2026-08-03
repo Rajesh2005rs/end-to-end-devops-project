@@ -198,15 +198,71 @@ sudo systemctl enable nginx
 Application deployment location:
 
 /usr/share/nginx/html
-📸 Screenshots
+
+📸 Project Screenshots
 
 Screenshots will be added here:
 
-AWS EC2 Instance
-Nginx Running Status
-Website Deployment
-Docker Containers
-GitHub Repository
+# 📸 Project Screenshots
+
+## GitHub Repository
+
+![GitHub Repository](screenshots/01-github-repository.png)
+
+---
+
+## AWS EC2 Instance
+
+![AWS EC2 Instance](screenshots/02-aws-ec2-instance.png)
+
+---
+
+## EC2 Terminal
+
+![EC2 Terminal](screenshots/03-ec2-terminal.png)
+
+---
+
+## Docker Images
+
+![Docker Images](screenshots/04-docker-images.png)
+
+---
+
+## Docker Containers
+
+![Docker Containers](screenshots/05-docker-ps.png)
+
+---
+
+## Docker Compose Services
+
+![Docker Compose](screenshots/06-docker-compose-ps.png)
+
+---
+
+## Website Deployment
+
+![Website Running](screenshots/07-website-running.JPG)
+
+---
+
+## Docker Hub Repository
+
+![Docker Hub Repository](screenshots/08-dockerhub-repository.png)
+
+---
+
+## Git Status
+
+![Git Status](screenshots/09-git-status.png)
+
+---
+
+## Project Structure
+
+![Project Structure](screenshots/10-project-structure.png)
+
 🚀 Future Improvements
 
 Planned enhancements:
