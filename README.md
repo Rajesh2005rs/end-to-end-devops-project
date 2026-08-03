@@ -199,7 +199,6 @@ Application deployment location:
 
 /usr/share/nginx/html
 
-
 # 📸 Project Screenshots
 
 ## GitHub Repository
