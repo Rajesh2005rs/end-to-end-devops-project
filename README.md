@@ -199,9 +199,6 @@ Application deployment location:
 
 /usr/share/nginx/html
 
-📸 Project Screenshots
-
-Screenshots will be added here:
 
 # 📸 Project Screenshots
 
