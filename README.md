@@ -24,6 +24,11 @@ The main objective is to gain practical experience with:
 - Docker Compose Management
 
 ---
+## Project Architecture
+
+The following architecture illustrates the complete deployment workflow of the project, from local development to AWS EC2 deployment using Docker and Docker Compose.
+
+![DevOps Architecture](diagrams/architecture.png)
 
 #  Features
 
