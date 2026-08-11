@@ -81,7 +81,7 @@ Live Application
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 
 end-to-end-devops-project
@@ -99,7 +99,7 @@ end-to-end-devops-project
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## Step 1: Clone Repository
 
@@ -110,7 +110,7 @@ Move into project directory:
 
 cd end-to-end-devops-project
 
-🐳 Docker Commands
+ Docker Commands
 
 Check Docker version:
 
@@ -132,7 +132,7 @@ Stop container:
 
 docker stop container_id
 
-🐳 Docker Compose
+ Docker Compose
 
 Docker Compose is used to manage application services.
 
@@ -148,7 +148,7 @@ Stop services:
 
 docker compose down
 
-🐋Docker Hub
+ Docker Hub
 
 Docker images can be stored and managed using Docker Hub.
 
@@ -172,7 +172,7 @@ docker login
 docker tag image_name username/image_name
 
 docker push username/image_name
-☁️ AWS EC2 Deployment
+ AWS EC2 Deployment
 EC2 Setup
 
 Steps performed:-
@@ -209,7 +209,7 @@ Deployment location:
 /usr/share/nginx/html
 The application files are hosted inside the Nginx default web root directory.
 
-# 📸 Project Screenshots
+#  Project Screenshots
 
 ## GitHub Repository
 
@@ -264,19 +264,3 @@ Through this project I learned:
 ✅ Docker Compose
 ✅ DevOps Project Lifecycle
 
-👨‍💻 Author
-
-Rajesh Shelke
-
-📄 License
-
-This project is created for learning and portfolio purposes.
-
-📞 Contact
-
-<<<<<<< HEAD
-GitHub: https://github.com/Rajesh2005rs
-=======
-GitHub: https://github.com/Rajesh2005rs
-
->>>>>>> 794e49e3fbd2bc5ca25a822ad10ca3250286e8bd
