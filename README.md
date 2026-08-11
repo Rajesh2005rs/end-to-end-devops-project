@@ -243,7 +243,7 @@ The application files are hosted inside the Nginx default web root directory.
 
 ![Project Structure](screenshots/10-project-structure.png)
 
-🚀 Future Improvements
+# Future Improvements
 
 Planned enhancements:
 
@@ -252,7 +252,7 @@ Infrastructure Automation using Terraform
 Container Orchestration using Kubernetes
 Monitoring using Prometheus and Grafana
 Add Automated Testing
-📚 Learnings
+ Learnings
 
 Through this project I learned:
 
