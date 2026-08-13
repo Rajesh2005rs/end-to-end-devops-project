@@ -211,35 +211,37 @@ The application files are hosted inside the Nginx default web root directory.
 
 #  Project Screenshots
 
-### 01. Project Overview
-![Project Overview](screenshots/01-project-overview.png)
+# 📸 Project Screenshots
 
-### 02. AWS EC2 Dashboard
-![AWS EC2 Dashboard](screenshots/02-aws-ec2.png)
+### 01. GitHub Repository
+![GitHub Repository](screenshots/01-github-repository.png)
 
-### 03. Docker Container
-![Docker Container](screenshots/03-docker-container.png)
+### 02. AWS EC2 Instance
+![AWS EC2 Instance](screenshots/02-aws-ec2-instance.png)
+
+### 03. EC2 Terminal
+![EC2 Terminal](screenshots/03-ec2-terminal.png)
 
 ### 04. Docker Images
 ![Docker Images](screenshots/04-docker-images.png)
 
-### 05. Docker Run
-![Docker Run](screenshots/05-docker-run.png)
+### 05. Docker Containers
+![Docker Containers](screenshots/05-docker-ps.png)
 
 ### 06. Docker Compose
-![Docker Compose](screenshots/06-docker-compose.png)
+![Docker Compose](screenshots/06-docker-compose-ps.png)
 
-### 07. Deployed Website
-![Deployed Website](screenshots/07-website.png)
+### 07. Website Running
+![Website Running](screenshots/07-website-running.JPG)
 
-### 08. Docker Hub
-![Docker Hub](screenshots/08-dockerhub.png)
+### 08. Docker Hub Repository
+![Docker Hub Repository](screenshots/08-dockerhub-repository.png)
 
-### 09. GitHub Repository
-![GitHub Repository](screenshots/09-github.png)
+### 09. Git Status
+![Git Status](screenshots/09-git-status.png)
 
-### 10. Final Deployment
-![Final Deployment](screenshots/10-final-deployment.png)
+### 10. Project Structure
+![Project Structure](screenshots/10-project-structure.png)
 
 ## Project Structure
 
