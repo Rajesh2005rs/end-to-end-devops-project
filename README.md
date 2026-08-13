@@ -243,10 +243,6 @@ The application files are hosted inside the Nginx default web root directory.
 ### 10. Project Structure
 ![Project Structure](screenshots/10-project-structure.png)
 
-## Project Structure
-
-![Project Structure](screenshots/10-project-structure.png)
-
 # Future Improvements
 
 Planned enhancements:
